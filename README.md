@@ -5,7 +5,7 @@ This repository contains a beginner‑friendly but fully functional **Computer V
 The project includes:
 
 - `cv.py` → Main Streamlit application for image processing  
-- `cv2.ipynb` → Jupyter Notebook for testing and experimenting with OpenCV functions  
+- `computer_vision_intro.ipynb` → Jupyter Notebook for testing and experimenting with OpenCV functions  
 
 ---
 
@@ -14,7 +14,7 @@ The project includes:
 ```
 .
 ├── cv.py                # Streamlit app with multiple CV operations
-├── cv2.ipynb            # Notebook for experimentation and demonstrations
+├── computer_vision_intro.ipynb            # Notebook for experimentation and demonstrations
 └── README.md
 ```
 
